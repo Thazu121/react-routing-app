@@ -48,10 +48,6 @@ src/
 
 │   ├── UsersLoader.jsx
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 8298def606d68d410a2945c8796953aba639d144
 │   └── SingleUserLoader.jsx
 
 │
@@ -65,6 +61,5 @@ src/
 
 
 ## Repo Link
-https://github.com/Thazu121/UsersList.git
-
+(https://github.com/Thazu121/react-routing-app.git)
 
