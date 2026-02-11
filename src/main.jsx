@@ -26,15 +26,16 @@ const router = createBrowserRouter([
 
     ]
   },],
-  {
-  basename:"/react-routing-app"
-}
+
 )
 
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <StrictMode>
+        <BrowserRouter basename="/react-routing-app">
+
     <RouterProvider router={router} />
+    </BrowserRouter>
   </StrictMode>
 )
