@@ -24,24 +24,40 @@ The project demonstrates routing, parameterized routes, and loader functions.
 src/
 │
 ├── Components/
+
 │   ├── Pages/
+
 │   │   ├── Home.jsx
+
 │   │   ├── About.jsx
+
 │   │   ├── Users.jsx
+
 │   │   └── UserDetails.jsx
+
 │   ├── Navbar.jsx
 │
 ├── Layouts/
+
 │   └── RootLayout.jsx
+
 │
 ├── loaders/
+
 │   ├── UsersLoader.jsx
+
+
 │   └── SingleUserLoader.jsx
+
 │
 ├── data/
+
 │   └── user.js
+
 │
+
 └── main.jsx
+
 
 ## Repo Link
 https://github.com/Thazu121/UsersList.git
